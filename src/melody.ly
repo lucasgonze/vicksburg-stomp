@@ -12,7 +12,7 @@ melodyWithChordSymbols =
 			        \huge	
 			
 					ef1 | s | s| s |
-					af1 | s | ef1 | s | 
+					af1 | s | ef1 | c1:7 | 
 					bf1:7 | f2:m7 bf2:7 | ef1 | s 
 			
 	            }
